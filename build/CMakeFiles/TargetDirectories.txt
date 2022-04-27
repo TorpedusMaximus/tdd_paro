@@ -1,0 +1,4 @@
+/home/tabaluga/CLionProjects/tdd_paro/build/CMakeFiles/rebuild_cache.dir
+/home/tabaluga/CLionProjects/tdd_paro/build/CMakeFiles/edit_cache.dir
+/home/tabaluga/CLionProjects/tdd_paro/build/CMakeFiles/run.dir
+/home/tabaluga/CLionProjects/tdd_paro/build/CMakeFiles/paro-tdd.dir
